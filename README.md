@@ -5,4 +5,4 @@ Javascript functions to loop through elements within a PDF in Adobe LiveCycle
 
 [Stefan Cameron](http://forms.stefcameron.com/2006/06/26/process-all-fields/)
 
-I found this code very useful when creating custom functionality with a PDF form.  It allows for a greater range of actions and events to execute on the form compared to the default LiveCycle scripting language.
+I found this code very useful when creating custom functionality within a PDF form.  It allows for a greater range of actions and events to execute on the form compared to the default LiveCycle scripting language.
